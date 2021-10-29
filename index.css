@@ -1,3 +1,13 @@
 .center {
-    
+    text-align: center;
 }
+.parrafo{
+    text-align: justify;
+    color: rgb(255, 0, 0);
+  }
+.orden {
+    text-align: justify;
+    color: rgb(11, 23, 189);
+}
+
+  
